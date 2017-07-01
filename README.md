@@ -1,7 +1,7 @@
 # ElectionVisualization
 Commandline Java program that prints a map of the 48 contiguous states' outcomes during presidential elections through 2012
 
-As it is, to use either program the file "purple" must be in the same directory as the Java file.
+As it is, to use either program the folder "purple" and the StdDraw.java file must be in the same directory as the program file.
 
 Command (after compilation):
 Usage: java RedBlue <region> <year> 
