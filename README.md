@@ -11,3 +11,5 @@ Region can be a state, the USA, or USA-county (to ensure accuracy, the "purple" 
 Year can be any presidential election year up through 2012.
 
 RedBlue will show which state or county had predominately Democrat or Republican votes where Purple will show the true mixture of all the votes. This visualization allows us to see just how close many places are in terms of votes for one side vs the other.  
+
+!Output of java Purple USA-county 2012](/relative/path/to/img.jpg?raw=true)
